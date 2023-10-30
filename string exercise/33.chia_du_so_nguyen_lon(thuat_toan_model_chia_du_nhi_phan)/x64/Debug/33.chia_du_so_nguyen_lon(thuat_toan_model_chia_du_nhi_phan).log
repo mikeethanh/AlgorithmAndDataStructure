@@ -1,0 +1,4 @@
+﻿  33.chia_du_so_nguyen_lon(thuat_toan_model_chia_du_nhi_phan).cpp
+E:\code\C++\string exercise\33.chia_du_so_nguyen_lon(thuat_toan_model_chia_du_nhi_phan)\33.chia_du_so_nguyen_lon(thuat_toan_model_chia_du_nhi_phan).cpp(9,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\code\C++\string exercise\33.chia_du_so_nguyen_lon(thuat_toan_model_chia_du_nhi_phan)\33.chia_du_so_nguyen_lon(thuat_toan_model_chia_du_nhi_phan).cpp(14,10): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+  33.chia_du_so_nguyen_lon(thuat_toan_model_chia_du_nhi_phan).vcxproj -> E:\code\C++\string exercise\stringexercise\x64\Debug\33.chia_du_so_nguyen_lon(thuat_toan_model_chia_du_nhi_phan).exe

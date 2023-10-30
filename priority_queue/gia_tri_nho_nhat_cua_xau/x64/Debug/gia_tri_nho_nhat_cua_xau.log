@@ -1,0 +1,3 @@
+﻿  gia_tri_nho_nhat_cua_xau.cpp
+E:\code\priority_queue\gia_tri_nho_nhat_cua_xau\gia_tri_nho_nhat_cua_xau.cpp(35,13): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  gia_tri_nho_nhat_cua_xau.vcxproj -> E:\code\priority_queue\x64\Debug\gia_tri_nho_nhat_cua_xau.exe

@@ -1,0 +1,5 @@
+﻿  timkiemphantutrongmang.cpp
+E:\code\C++\setmappractice\timkiemphantutrongmang\timkiemphantutrongmang.cpp(31,6): error C2086: 'int t': redefinition
+E:\code\C++\setmappractice\timkiemphantutrongmang\timkiemphantutrongmang.cpp(10): message : see declaration of 't'
+E:\code\C++\setmappractice\timkiemphantutrongmang\timkiemphantutrongmang.cpp(52,6): error C2086: 'int t': redefinition
+E:\code\C++\setmappractice\timkiemphantutrongmang\timkiemphantutrongmang.cpp(10): message : see declaration of 't'

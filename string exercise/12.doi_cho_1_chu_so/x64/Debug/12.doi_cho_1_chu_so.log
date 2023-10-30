@@ -1,0 +1,4 @@
+﻿  12.doi_cho_1_chu_so.cpp
+E:\code\C++\string exercise\12.doi_cho_1_chu_so\12.doi_cho_1_chu_so.cpp(9,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\code\C++\string exercise\12.doi_cho_1_chu_so\12.doi_cho_1_chu_so.cpp(16,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  12.doi_cho_1_chu_so.vcxproj -> E:\code\C++\string exercise\stringexercise\x64\Debug\12.doi_cho_1_chu_so.exe

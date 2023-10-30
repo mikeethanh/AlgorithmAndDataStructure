@@ -1,0 +1,129 @@
+﻿  Person.cpp
+E:\code\C++\exercise class\8.1\Person.h(6,9): error C3646: 'surname': unknown override specifier
+E:\code\C++\exercise class\8.1\Person.h(6,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\code\C++\exercise class\8.1\Person.h(7,9): error C3646: 'middlename': unknown override specifier
+E:\code\C++\exercise class\8.1\Person.h(7,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\code\C++\exercise class\8.1\Person.h(8,9): error C3646: 'name': unknown override specifier
+E:\code\C++\exercise class\8.1\Person.h(8,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\code\C++\exercise class\8.1\Person.h(10,9): error C3646: 'sex': unknown override specifier
+E:\code\C++\exercise class\8.1\Person.h(10,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\code\C++\exercise class\8.1\Person.h(11,9): error C3646: 'address': unknown override specifier
+E:\code\C++\exercise class\8.1\Person.h(11,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\code\C++\exercise class\8.1\Person.h(17,14): error C2061: syntax error: identifier 'string'
+E:\code\C++\exercise class\8.1\Person.h(20,18): error C2061: syntax error: identifier 'string'
+E:\code\C++\exercise class\8.1\Person.h(21,21): error C2061: syntax error: identifier 'string'
+E:\code\C++\exercise class\8.1\Person.h(22,15): error C2061: syntax error: identifier 'string'
+E:\code\C++\exercise class\8.1\Person.h(24,14): error C2061: syntax error: identifier 'string'
+E:\code\C++\exercise class\8.1\Person.h(25,18): error C2061: syntax error: identifier 'string'
+E:\code\C++\exercise class\8.1\Person.h(29,9): error C3646: 'getsurname': unknown override specifier
+E:\code\C++\exercise class\8.1\Person.h(29,19): error C2059: syntax error: '('
+E:\code\C++\exercise class\8.1\Person.h(29,21): error C2238: unexpected token(s) preceding ';'
+E:\code\C++\exercise class\8.1\Person.h(30,9): error C3646: 'getmiddlename': unknown override specifier
+E:\code\C++\exercise class\8.1\Person.h(30,22): error C2059: syntax error: '('
+E:\code\C++\exercise class\8.1\Person.h(30,24): error C2238: unexpected token(s) preceding ';'
+E:\code\C++\exercise class\8.1\Person.h(31,9): error C3646: 'getname': unknown override specifier
+E:\code\C++\exercise class\8.1\Person.h(31,16): error C2059: syntax error: '('
+E:\code\C++\exercise class\8.1\Person.h(31,18): error C2238: unexpected token(s) preceding ';'
+E:\code\C++\exercise class\8.1\Person.h(33,9): error C3646: 'getsex': unknown override specifier
+E:\code\C++\exercise class\8.1\Person.h(33,15): error C2059: syntax error: '('
+E:\code\C++\exercise class\8.1\Person.h(33,17): error C2238: unexpected token(s) preceding ';'
+E:\code\C++\exercise class\8.1\Person.h(34,9): error C3646: 'getaddress': unknown override specifier
+E:\code\C++\exercise class\8.1\Person.h(34,19): error C2059: syntax error: '('
+E:\code\C++\exercise class\8.1\Person.h(34,21): error C2238: unexpected token(s) preceding ';'
+E:\code\C++\exercise class\8.1\Person.cpp(9,8): error C2039: 'surname': is not a member of 'Person'
+E:\code\C++\exercise class\8.1\Person.h(2): message : see declaration of 'Person'
+E:\code\C++\exercise class\8.1\Person.cpp(10,8): error C2039: 'middlename': is not a member of 'Person'
+E:\code\C++\exercise class\8.1\Person.h(2): message : see declaration of 'Person'
+E:\code\C++\exercise class\8.1\Person.cpp(11,8): error C2039: 'name': is not a member of 'Person'
+E:\code\C++\exercise class\8.1\Person.h(2): message : see declaration of 'Person'
+E:\code\C++\exercise class\8.1\Person.cpp(13,8): error C2039: 'sex': is not a member of 'Person'
+E:\code\C++\exercise class\8.1\Person.h(2): message : see declaration of 'Person'
+E:\code\C++\exercise class\8.1\Person.cpp(14,8): error C2039: 'address': is not a member of 'Person'
+E:\code\C++\exercise class\8.1\Person.h(2): message : see declaration of 'Person'
+E:\code\C++\exercise class\8.1\Person.cpp(19,48): error C2511: 'Person::Person(int,std::string,std::string,std::string,int,std::string,std::string,int)': overloaded member function not found in 'Person'
+E:\code\C++\exercise class\8.1\Person.h(2): message : see declaration of 'Person'
+E:\code\C++\exercise class\8.1\Person.cpp(20,2): error C2352: 'Person::setseri': a call of a non-static member function requires an object
+E:\code\C++\exercise class\8.1\Person.h(19): message : see declaration of 'Person::setseri'
+E:\code\C++\exercise class\8.1\Person.cpp(21,20): error C2660: 'Person::setsurname': function does not take 1 arguments
+E:\code\C++\exercise class\8.1\Person.h(20,7): message : see declaration of 'Person::setsurname'
+E:\code\C++\exercise class\8.1\Person.cpp(22,26): error C2660: 'Person::setmiddlename': function does not take 1 arguments
+E:\code\C++\exercise class\8.1\Person.h(21,7): message : see declaration of 'Person::setmiddlename'
+E:\code\C++\exercise class\8.1\Person.cpp(23,14): error C2660: 'Person::setname': function does not take 1 arguments
+E:\code\C++\exercise class\8.1\Person.h(22,7): message : see declaration of 'Person::setname'
+E:\code\C++\exercise class\8.1\Person.cpp(24,2): error C2352: 'Person::setage': a call of a non-static member function requires an object
+E:\code\C++\exercise class\8.1\Person.h(23): message : see declaration of 'Person::setage'
+E:\code\C++\exercise class\8.1\Person.cpp(25,12): error C2660: 'Person::setsex': function does not take 1 arguments
+E:\code\C++\exercise class\8.1\Person.h(24,7): message : see declaration of 'Person::setsex'
+E:\code\C++\exercise class\8.1\Person.cpp(26,20): error C2660: 'Person::setaddress': function does not take 1 arguments
+E:\code\C++\exercise class\8.1\Person.h(25,7): message : see declaration of 'Person::setaddress'
+E:\code\C++\exercise class\8.1\Person.cpp(27,2): error C2352: 'Person::setsdt': a call of a non-static member function requires an object
+E:\code\C++\exercise class\8.1\Person.h(26): message : see declaration of 'Person::setsdt'
+E:\code\C++\exercise class\8.1\Person.cpp(35,43): error C2511: 'void Person::setsurname(std::string)': overloaded member function not found in 'Person'
+E:\code\C++\exercise class\8.1\Person.h(2): message : see declaration of 'Person'
+E:\code\C++\exercise class\8.1\Person.cpp(36,3): error C2671: 'Person::setsurname': static member functions do not have 'this' pointers
+E:\code\C++\exercise class\8.1\Person.cpp(38,49): error C2511: 'void Person::setmiddlename(std::string)': overloaded member function not found in 'Person'
+E:\code\C++\exercise class\8.1\Person.h(2): message : see declaration of 'Person'
+E:\code\C++\exercise class\8.1\Person.cpp(39,3): error C2671: 'Person::setmiddlename': static member functions do not have 'this' pointers
+E:\code\C++\exercise class\8.1\Person.cpp(41,37): error C2511: 'void Person::setname(std::string)': overloaded member function not found in 'Person'
+E:\code\C++\exercise class\8.1\Person.h(2): message : see declaration of 'Person'
+E:\code\C++\exercise class\8.1\Person.cpp(42,3): error C2671: 'Person::setname': static member functions do not have 'this' pointers
+E:\code\C++\exercise class\8.1\Person.cpp(47,35): error C2511: 'void Person::setsex(std::string)': overloaded member function not found in 'Person'
+E:\code\C++\exercise class\8.1\Person.h(2): message : see declaration of 'Person'
+E:\code\C++\exercise class\8.1\Person.cpp(48,6): error C2671: 'Person::setsex': static member functions do not have 'this' pointers
+E:\code\C++\exercise class\8.1\Person.cpp(50,43): error C2511: 'void Person::setaddress(std::string)': overloaded member function not found in 'Person'
+E:\code\C++\exercise class\8.1\Person.h(2): message : see declaration of 'Person'
+E:\code\C++\exercise class\8.1\Person.cpp(51,3): error C2671: 'Person::setaddress': static member functions do not have 'this' pointers
+E:\code\C++\exercise class\8.1\Person.cpp(60,18): error C2039: 'getsurname': is not a member of 'Person'
+E:\code\C++\exercise class\8.1\Person.h(2): message : see declaration of 'Person'
+E:\code\C++\exercise class\8.1\Person.cpp(61,10): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+E:\code\C++\exercise class\8.1\Person.cpp(63,18): error C2039: 'getmiddlename': is not a member of 'Person'
+E:\code\C++\exercise class\8.1\Person.h(2): message : see declaration of 'Person'
+E:\code\C++\exercise class\8.1\Person.cpp(64,10): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+E:\code\C++\exercise class\8.1\Person.cpp(66,18): error C2039: 'getname': is not a member of 'Person'
+E:\code\C++\exercise class\8.1\Person.h(2): message : see declaration of 'Person'
+E:\code\C++\exercise class\8.1\Person.cpp(67,10): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+E:\code\C++\exercise class\8.1\Person.cpp(72,18): error C2039: 'getsex': is not a member of 'Person'
+E:\code\C++\exercise class\8.1\Person.h(2): message : see declaration of 'Person'
+E:\code\C++\exercise class\8.1\Person.cpp(73,10): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+E:\code\C++\exercise class\8.1\Person.cpp(75,18): error C2039: 'getaddress': is not a member of 'Person'
+E:\code\C++\exercise class\8.1\Person.h(2): message : see declaration of 'Person'
+E:\code\C++\exercise class\8.1\Person.cpp(76,10): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+E:\code\C++\exercise class\8.1\Person.cpp(85,26): error C2065: 'surname': undeclared identifier
+E:\code\C++\exercise class\8.1\Person.cpp(86,28): error C2065: 'middlename': undeclared identifier
+E:\code\C++\exercise class\8.1\Person.cpp(87,23): error C2065: 'name': undeclared identifier
+E:\code\C++\exercise class\8.1\Person.cpp(89,29): error C2065: 'sex': undeclared identifier
+E:\code\C++\exercise class\8.1\Person.cpp(90,27): error C2065: 'address': undeclared identifier
+  test8.cpp
+E:\code\C++\exercise class\8.1\Person.h(6,9): error C3646: 'surname': unknown override specifier
+E:\code\C++\exercise class\8.1\Person.h(6,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\code\C++\exercise class\8.1\Person.h(7,9): error C3646: 'middlename': unknown override specifier
+E:\code\C++\exercise class\8.1\Person.h(7,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\code\C++\exercise class\8.1\Person.h(8,9): error C3646: 'name': unknown override specifier
+E:\code\C++\exercise class\8.1\Person.h(8,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\code\C++\exercise class\8.1\Person.h(10,9): error C3646: 'sex': unknown override specifier
+E:\code\C++\exercise class\8.1\Person.h(10,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\code\C++\exercise class\8.1\Person.h(11,9): error C3646: 'address': unknown override specifier
+E:\code\C++\exercise class\8.1\Person.h(11,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\code\C++\exercise class\8.1\Person.h(17,14): error C2061: syntax error: identifier 'string'
+E:\code\C++\exercise class\8.1\Person.h(20,18): error C2061: syntax error: identifier 'string'
+E:\code\C++\exercise class\8.1\Person.h(21,21): error C2061: syntax error: identifier 'string'
+E:\code\C++\exercise class\8.1\Person.h(22,15): error C2061: syntax error: identifier 'string'
+E:\code\C++\exercise class\8.1\Person.h(24,14): error C2061: syntax error: identifier 'string'
+E:\code\C++\exercise class\8.1\Person.h(25,18): error C2061: syntax error: identifier 'string'
+E:\code\C++\exercise class\8.1\Person.h(29,9): error C3646: 'getsurname': unknown override specifier
+E:\code\C++\exercise class\8.1\Person.h(29,19): error C2059: syntax error: '('
+E:\code\C++\exercise class\8.1\Person.h(29,21): error C2238: unexpected token(s) preceding ';'
+E:\code\C++\exercise class\8.1\Person.h(30,9): error C3646: 'getmiddlename': unknown override specifier
+E:\code\C++\exercise class\8.1\Person.h(30,22): error C2059: syntax error: '('
+E:\code\C++\exercise class\8.1\Person.h(30,24): error C2238: unexpected token(s) preceding ';'
+E:\code\C++\exercise class\8.1\Person.h(31,9): error C3646: 'getname': unknown override specifier
+E:\code\C++\exercise class\8.1\Person.h(31,16): error C2059: syntax error: '('
+E:\code\C++\exercise class\8.1\Person.h(31,18): error C2238: unexpected token(s) preceding ';'
+E:\code\C++\exercise class\8.1\Person.h(33,9): error C3646: 'getsex': unknown override specifier
+E:\code\C++\exercise class\8.1\Person.h(33,15): error C2059: syntax error: '('
+E:\code\C++\exercise class\8.1\Person.h(33,17): error C2238: unexpected token(s) preceding ';'
+E:\code\C++\exercise class\8.1\Person.h(34,9): error C3646: 'getaddress': unknown override specifier
+E:\code\C++\exercise class\8.1\Person.h(34,19): error C2059: syntax error: '('
+E:\code\C++\exercise class\8.1\Person.h(34,21): error C2238: unexpected token(s) preceding ';'
+E:\code\C++\exercise class\8.1\test8.cpp(27,57): error C2661: 'Person::Person': no overloaded function takes 8 arguments
+  Generating Code...

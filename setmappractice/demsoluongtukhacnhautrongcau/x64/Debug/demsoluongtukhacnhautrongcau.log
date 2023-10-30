@@ -1,0 +1,3 @@
+﻿  demsoluongtukhacnhautrongcau.cpp
+E:\code\C++\setmappractice\demsoluongtukhacnhautrongcau\demsoluongtukhacnhautrongcau.cpp(26,6): error C2086: 'int t': redefinition
+E:\code\C++\setmappractice\demsoluongtukhacnhautrongcau\demsoluongtukhacnhautrongcau.cpp(11): message : see declaration of 't'

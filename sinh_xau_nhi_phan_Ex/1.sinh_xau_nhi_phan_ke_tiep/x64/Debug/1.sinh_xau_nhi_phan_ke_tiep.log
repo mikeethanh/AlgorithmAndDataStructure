@@ -1,0 +1,3 @@
+﻿  1.sinh_xau_nhi_phan_ke_tiep.cpp
+E:\code\C++\sinh_xau_nhi_phan_Ex\1.sinh_xau_nhi_phan_ke_tiep\1.sinh_xau_nhi_phan_ke_tiep.cpp(5,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  1.sinh_xau_nhi_phan_ke_tiep.vcxproj -> E:\code\C++\sinh_xau_nhi_phan_Ex\x64\Debug\1.sinh_xau_nhi_phan_ke_tiep.exe

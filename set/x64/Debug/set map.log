@@ -1,0 +1,9 @@
+﻿  btmauset.cpp
+  btmultiset.cpp
+  multiset.cpp
+  set map.cpp
+  Generating Code...
+btmultiset.obj : error LNK2005: main already defined in btmauset.obj
+multiset.obj : error LNK2005: main already defined in btmauset.obj
+set map.obj : error LNK2005: main already defined in btmauset.obj
+E:\code\C++\pair\set map\x64\Debug\set map.exe : fatal error LNK1169: one or more multiply defined symbols found

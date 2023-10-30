@@ -1,0 +1,6 @@
+﻿  sort_struct_in_linked_list.cpp
+E:\code\C++\danh_sach_lien_ket_va_cay_nhi_phan\sort_struct_in_linked_list\sort_struct_in_linked_list.cpp(60,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\code\C++\danh_sach_lien_ket_va_cay_nhi_phan\sort_struct_in_linked_list\sort_struct_in_linked_list.cpp(61,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\code\C++\danh_sach_lien_ket_va_cay_nhi_phan\sort_struct_in_linked_list\sort_struct_in_linked_list.cpp(62,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\code\C++\danh_sach_lien_ket_va_cay_nhi_phan\sort_struct_in_linked_list\sort_struct_in_linked_list.cpp(63,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  sort_struct_in_linked_list.vcxproj -> E:\code\C++\danh_sach_lien_ket_va_cay_nhi_phan\x64\Debug\sort_struct_in_linked_list.exe

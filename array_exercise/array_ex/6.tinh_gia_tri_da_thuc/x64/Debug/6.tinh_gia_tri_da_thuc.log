@@ -1,0 +1,3 @@
+﻿  6.tinh_gia_tri_da_thuc.cpp
+E:\code\C++\array_exercise\array_ex\6.tinh_gia_tri_da_thuc\6.tinh_gia_tri_da_thuc.cpp(17,16): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  6.tinh_gia_tri_da_thuc.vcxproj -> E:\code\C++\array_exercise\array_ex\x64\Debug\6.tinh_gia_tri_da_thuc.exe

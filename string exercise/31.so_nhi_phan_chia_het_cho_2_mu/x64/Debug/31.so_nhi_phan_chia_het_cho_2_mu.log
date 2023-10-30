@@ -1,0 +1,5 @@
+﻿  31.so_nhi_phan_chia_het_cho_2_mu.cpp
+E:\code\C++\string exercise\31.so_nhi_phan_chia_het_cho_2_mu\31.so_nhi_phan_chia_het_cho_2_mu.cpp(11,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\code\C++\string exercise\31.so_nhi_phan_chia_het_cho_2_mu\31.so_nhi_phan_chia_het_cho_2_mu.cpp(14,15): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\code\C++\string exercise\31.so_nhi_phan_chia_het_cho_2_mu\31.so_nhi_phan_chia_het_cho_2_mu.cpp(18,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  31.so_nhi_phan_chia_het_cho_2_mu.vcxproj -> E:\code\C++\string exercise\stringexercise\x64\Debug\31.so_nhi_phan_chia_het_cho_2_mu.exe
