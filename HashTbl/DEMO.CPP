@@ -15,6 +15,7 @@ int main() {
     // system("cls");  // If you are using this for clearing the console, consider alternatives
 
     ht.Add(1, 45.5, h);
+    // ht.Add(1, 42.5, h);
     ht.Add(3, 4.23, h);
     ht.Add(10, 100.23, h);
     ht.Add(67, 1000, h);

@@ -3,6 +3,7 @@
 #include "node.cpp"
 #include<iostream>
 using namespace std;
+
 template <class Keys, class T>
 class SingleList{
 private:
@@ -19,9 +20,9 @@ public:
 		return sz;
 	}
 	
-	int    isEmpty()
+	int   isEmpty()
 	{
-		return sz==0;
+		return sz == 0;
 	}
 	Node<Keys,T>* pushback(Keys k,T e)  //Chen them mot node vao cuoi danh sach
 	{
@@ -36,7 +37,7 @@ public:
 		}
 		else{
 			trailer->setNext(q);
-			trailer = q;
+			// trailer = q;
 		}
 		sz++;
 		return q;		
@@ -49,14 +50,15 @@ public:
     void remove(Node<Keys,T> *p)		 // Loai bo node do con tro p tro toi
     {
     	Node<Keys,T> *p1;
+		
 		if(p==header)
 		{
 			if(size()==1)
-			{
+			{					
 				header = NULL;
-				trailer = NULL;
+				trailer = NULL;				
 			}
-			else
+			else				
 				header = header->getNext();
 			sz--;
 		}
