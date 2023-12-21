@@ -28,7 +28,7 @@ class BSTNode {
         return this->data = data;
     }
 
-    void setParent(BsNode<Key,Data>* Node) {
+    void setParent(BSTNode<Key,Data>* Node) {
         return this->parent = Node;
     }
 

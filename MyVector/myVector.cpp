@@ -15,6 +15,9 @@ class VRI {
     }
 
     //nap chong toan tu ++ hau to  :
+    //Trong trường hợp của toán tử ++, việc trả về curr sẽ là việc trả về một con trỏ tới phần tử trước đó trong lớp duyệt ngược
+    // (vector_reverse_iterator). Thông thường, toán tử ++ sẽ di chuyển con trỏ đến phần tử trước đó trong chuỗi. Trong trường hợp
+    // này, curr là một con trỏ (chỉ tới một phần tử trong lớp duyệt ngược) và việc trả về curr sẽ trả về con trỏ tới phần tử mới sau khi con trỏ đã được di chuyển về phía trước.
     VRI<T> &operator++() {
         curr--;
         return curr;
